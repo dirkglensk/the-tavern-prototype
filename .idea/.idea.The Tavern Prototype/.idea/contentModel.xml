@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Dirk\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Dirk\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_The Tavern Prototype.-219973014.00" t="ExcludeRecursive" />
+    <e p="Q:\GameDev\The Tavern Prototype" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="PatronGroupEditor.cs" t="Include" />
+          <e p="ReceptionEditor.cs" t="Include" />
+          <e p="RestaurantEditor.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ClockText.cs" t="Include" />
+          <e p="DefaultPatronBehaviour.cs" t="Include" />
+          <e p="Entry.cs" t="Include" />
+          <e p="Enums.cs" t="Include" />
+          <e p="Game.cs" t="Include" />
+          <e p="GroupLocationMarker.cs" t="Include" />
+          <e p="IItem.cs" t="Include" />
+          <e p="IPatronBehaviour.cs" t="Include" />
+          <e p="Item.cs" t="Include" />
+          <e p="ItemContainer.cs" t="Include" />
+          <e p="ItemStorageSlot.cs" t="Include" />
+          <e p="Patron.cs" t="Include" />
+          <e p="PatronGroup.cs" t="Include" />
+          <e p="Reception.cs" t="Include" />
+          <e p="Restaurant.cs" t="Include" />
+          <e p="Seat.cs" t="Include" />
+          <e p="Singleton.cs" t="Include" />
+          <e p="Table.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="The Tavern Prototype.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
